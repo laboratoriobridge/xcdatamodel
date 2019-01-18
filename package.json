@@ -1,6 +1,6 @@
 {
-  "name": "xcdatamodel",
-  "version": "0.1.0",
+  "name": "@laboratoriobridge/xcdatamodel",
+  "version": "0.1.01",
   "description": "A command-line tool for check and validate xcdatamodel files from a iOS app project",
   "main": "index.js",
   "repository": {
